@@ -1,5 +1,5 @@
-.navbar-bg-custome {
-    background-color: rgb(255, 202, 211);
+.navbar-custom {
+    background-color: rgba(255, 202, 211, 0.31);
 }
 
 .wedding-text-custom {
@@ -8,4 +8,8 @@
 
 .center-text-custome {
     color: rgb(152, 152, 152);
+}
+
+.banner-custom {
+    margin-top: 80px;
 }

@@ -25,3 +25,19 @@
 .fa-gift {
     color: rgb(255, 95, 122);
 }
+
+.card-style-custom {
+    height: 340px !important;
+}
+
+.card-style-custom:hover {
+    background-color: rgba(220, 227, 255, 0.662);
+    box-shadow: 10px 5px 10px rgba(180, 195, 255, 0.662);
+    transition: 1.5s;
+}
+
+.fa-check {
+    background-color: rgba(238, 238, 238, 0.542);
+    border-radius: 20px;
+    padding: 2px 3px;
+}
